@@ -1,6 +1,6 @@
 ## 一些CTF工具
-- [Misc](MISC)
-- [WEB](WEB)
+- [Misc](Misc)
+- [WEB](Web)
 - [AWD](AWD攻防)
 - [PWN](#)
 - [逆向](#)
