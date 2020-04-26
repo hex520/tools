@@ -1,0 +1,3 @@
+#! /bin/bash
+cd ~/tools/stegsolve/
+exec java -jar stegsolve.jar "$@"
