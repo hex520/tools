@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AWD/AWD-Attack-Defense" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AWD攻防/AWD-Attack-Defense" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MISC/AES_Test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MISC/PCRT_修复PNG" vcs="Git" />
