@@ -12,7 +12,12 @@ def yunying(en_str):#云影解密
         a.append(sum)
     print()
     return a
+
+
 b = yunying(str1)
+
+
+
 def binexp(arr):# 幂数解密
     for i in arr:
         sum = 0
