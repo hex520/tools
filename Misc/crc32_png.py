@@ -21,8 +21,8 @@ import json
 # F9 7D AA 93 是对IHDR的CRC校验
 
 
-filename = "dabai.png"
-crc = 0x6d7c7135
+filename = "Misc-A_Beautiful_Picture-DreamerJack.png"
+crc = 0xc2c143b3
 download = "/home/hsm/Downloads/"
 filename = download+filename
 
