@@ -10,9 +10,16 @@ def ToStr(binStr):
         b = chr(int(binStr[i:i+8],2))
         print(b,end='')
         i+=8
+
+
+        
 ToStr(binStr)
 # str  "UUMM M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M7"
 # str = str.replace(' ','')
 # print()
 # print(str)
+
+
+string = "asfd"
+string.
 
