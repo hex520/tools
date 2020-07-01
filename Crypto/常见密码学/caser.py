@@ -1,6 +1,6 @@
 #凯撒密码解密
-str = "oknqdbqmoq{kag_tmhq_xqmdzqp_omqemd_qzodkbfuaz}"
-str1 = "ccehgyaefnpeoobe{lcirg}epriec_ora_g"
+import sys
+str1 = sys.argv[1]
 def caser(str,key):#key为移位
     str_1=''
     for i in str:
@@ -13,5 +13,5 @@ def caser(str,key):#key为移位
     return str_1
 for i in range(26):
     a=caser(str1,i)
-    print(a)
+    print("第{}次解密:{}".format(i,a))
 
