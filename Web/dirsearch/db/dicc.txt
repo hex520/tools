@@ -6101,6 +6101,7 @@ zeroclipboard.swf
 zf_backend.php
 zimbra
 zimbra/
+robots.txt
 zone-h.php
 ~admin/
 %ext%.zip
