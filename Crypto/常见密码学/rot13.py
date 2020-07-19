@@ -1,4 +1,6 @@
 # rot13解密
+import sys
+rot = sys.argv[1]
 def rot13(rot):
     c=""
     for i in rot:
@@ -25,5 +27,6 @@ def rot13(rot):
         else:
             c=c+i
     return c
-
+b = rot13(rot)
+print(b)
 
