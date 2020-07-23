@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Jul 21 22:44:59 2020
+Invocation: foremost meihuai.jpg 
+Output directory: /home/hsm/Downloads/梅花香之苦寒来/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: meihuai.jpg
+Start: Tue Jul 21 22:44:59 2020
+Length: 655 KB (670804 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      20 KB 	          0 	 
+Finish: Tue Jul 21 22:44:59 2020
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue Jul 21 22:44:59 2020
