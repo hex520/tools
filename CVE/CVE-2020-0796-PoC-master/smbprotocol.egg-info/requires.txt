@@ -1,0 +1,10 @@
+cryptography>=2.0
+ntlm-auth>=1.2.0
+pyasn1
+six
+
+[kerberos:sys_platform!="win32"]
+gssapi>=1.4.1
+
+[kerberos:sys_platform=="win32"]
+pywin32
