@@ -1,0 +1,2 @@
+# Xor-Obfuscation
+This project is create an open source tool o reveal oldschool passwords for excel 6 (xls) with XOR obfuscation. Office2john.py gives the xor key and the truncated md5 hash. Russian software such as elcomsoft reveals the password instantly. Research idea is to publish a python tool that will reveal the open passwords so that the number of crap document recovery services on the internet out of russia go broke and save the internet 30$ a copy
