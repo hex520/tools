@@ -1,0 +1,4 @@
+上传得到路径，因为读文件时对schema有过滤，利用压缩过滤器触发phar即可：
+``` 
+compress.zlib://phar:///var/www/html/upload/16e45eeda7cc58d39621ec8886c53293.gif
+```
