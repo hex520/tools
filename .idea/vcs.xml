@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Crypto/CTF-RSA-tool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Misc/AES_Test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Misc/PCRT_PNG" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Misc/pyc/stegosaurus" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/Misc/rockstar-py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Other/ctf-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Other/dos攻击" vcs="Git" />
+  </component>
+</project>
