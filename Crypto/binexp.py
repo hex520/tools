@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 import math
 str1  = "8842101220480224404014224202480122"
 def yunying(en_str):#云影解密

@@ -1,6 +1,4 @@
 # base64加解密
-
-
 def base(string:str)->str:#base64加密
     base64_list = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P','Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'a', 'b', 'c','d','e','f','g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v','w', 'x', 'y', 'z', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '+', '/']
 #把原始字符串转换为二进制，用bin转换后是0b开头的，所以把b替换了，首位补0补齐8位
@@ -26,10 +24,6 @@ def base(string:str)->str:#base64加密
             base += '='
         print(base)
         #print("key="+i+"  decode:"+debase(base))
-
-
-
-
 def debase(string:str)->str:#base64解密
     base64_list = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P','Q', 'R', 'S', 'T', 'U', 'V', 
                     'W', 'X', 'Y', 'Z', 'a', 'b', 'c', 'd', 'e', 'f','g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r',
@@ -45,11 +39,6 @@ def debase(string:str)->str:#base64解密
         for l in range(len(newstr)):
             unbase += chr(int(newstr[l], 2))
         print(unbase)
-
-
-
-
-
 
 import base64
 str = "19aaFYsQQKr+hVX6hl2smAUQ5a767TsULEUebWSajEo="
